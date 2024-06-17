@@ -1,0 +1,7 @@
+Información de una conversación
+
+[2024-06-01 14:25] Hola me llamo Ada y necesito un diseñador con 2 años de experiencia para un proyecto de 3 meses. El sueldo es por $15,000 MXN por el proyecto
+
+[2024-06-01 18:23] Soy Paco y necesito un programador con 15 años de experiencia para un proyecto de 6 meses, con un sueldo de $9,000 MXN mensual
+
+[2024-06-03 13:42] Yo soy Luis y necesito un asistente sin experiencia para un proyecto de 2 meses, con un sueldo de $8,000 MXN bimestral

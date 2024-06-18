@@ -19,3 +19,7 @@
 > Sesión 01.2 - Caso de Estudio - Análisis del IMC por categorías
 
 [https://colab.research.google.com/drive/1aK40IYREhDrZqYD-Kt7ILPO3qsPRL3fB?usp=sharing](https://colab.research.google.com/drive/1aK40IYREhDrZqYD-Kt7ILPO3qsPRL3fB?usp=sharing)
+
+> Sesión 02.1 - Caso de Estudio - Análisis de Venta de Productos
+
+[https://colab.research.google.com/drive/1rgBddEe4O0WjokHj4ybg0ysGYyoih8jO?usp=sharing](https://colab.research.google.com/drive/1rgBddEe4O0WjokHj4ybg0ysGYyoih8jO?usp=sharing)

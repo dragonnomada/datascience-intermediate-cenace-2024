@@ -23,3 +23,19 @@
 > Sesión 02.1 - Caso de Estudio - Análisis de Venta de Productos
 
 [https://colab.research.google.com/drive/1rgBddEe4O0WjokHj4ybg0ysGYyoih8jO?usp=sharing](https://colab.research.google.com/drive/1rgBddEe4O0WjokHj4ybg0ysGYyoih8jO?usp=sharing)
+
+> Sesión 03.1
+
+[https://colab.research.google.com/drive/1sNKQ09exMfDuIUcxXEGS_d-rLJn5QsUf?usp=sharing](https://colab.research.google.com/drive/1sNKQ09exMfDuIUcxXEGS_d-rLJn5QsUf?usp=sharingsharing)
+
+> Sesión 03.2
+
+[https://colab.research.google.com/drive/1Ls-IZ0Ple-Ubl9iSjzlCc_PbaxnIWJnb?usp=sharing](https://colab.research.google.com/drive/1Ls-IZ0Ple-Ubl9iSjzlCc_PbaxnIWJnb?usp=sharing)
+
+> Sesión 03.3
+
+[https://colab.research.google.com/drive/1WcWXxCoqPf_VYZeinKF_M8et8nebj7Kh?usp=sharing](https://colab.research.google.com/drive/1WcWXxCoqPf_VYZeinKF_M8et8nebj7Kh?usp=sharing)
+
+> Sesión 03.4
+
+[https://colab.research.google.com/drive/1cEyED7w_6-ivMhACLP36Bm2ewg6-g1Xp?usp=sharing](https://colab.research.google.com/drive/1cEyED7w_6-ivMhACLP36Bm2ewg6-g1Xp?usp=sharing)

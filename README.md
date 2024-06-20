@@ -39,3 +39,7 @@
 > Sesión 03.4
 
 [https://colab.research.google.com/drive/1cEyED7w_6-ivMhACLP36Bm2ewg6-g1Xp?usp=sharing](https://colab.research.google.com/drive/1cEyED7w_6-ivMhACLP36Bm2ewg6-g1Xp?usp=sharing)
+
+> Sesión 04.1
+
+[https://colab.research.google.com/drive/1-WkYn5H2t9nPOoIUnHlkpF45ESJ172Fn?usp=sharing](https://colab.research.google.com/drive/1-WkYn5H2t9nPOoIUnHlkpF45ESJ172Fn?usp=sharing)

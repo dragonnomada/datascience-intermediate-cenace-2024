@@ -42,4 +42,8 @@
 
 > Sesión 04.1
 
+[https://colab.research.google.com/drive/14JCTu9eicyrMtXUouGJJmbbldqg0LzZF?usp=sharing](https://colab.research.google.com/drive/14JCTu9eicyrMtXUouGJJmbbldqg0LzZF?usp=sharing)
+
+> Sesión 04.2
+
 [https://colab.research.google.com/drive/1-WkYn5H2t9nPOoIUnHlkpF45ESJ172Fn?usp=sharing](https://colab.research.google.com/drive/1-WkYn5H2t9nPOoIUnHlkpF45ESJ172Fn?usp=sharing)

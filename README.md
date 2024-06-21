@@ -51,3 +51,19 @@
 > Sesión 04.3
 
 [https://colab.research.google.com/drive/1XGlbai5gdbf-_LDzouMxKLPGxP3fiApK?usp=sharing](https://colab.research.google.com/drive/1XGlbai5gdbf-_LDzouMxKLPGxP3fiApK?usp=sharing)
+
+> Sesión 05.1
+
+[https://colab.research.google.com/drive/1jBS-0Hi4GjdTFVDUuTdLR0ZLCq-p71YK?usp=sharing](https://colab.research.google.com/drive/1jBS-0Hi4GjdTFVDUuTdLR0ZLCq-p71YK?usp=sharing)
+
+> Sesión 05.2
+
+[https://colab.research.google.com/drive/182HppxFlF2EwCEMTgPDS9gf5j83isDTm?usp=sharing](https://colab.research.google.com/drive/182HppxFlF2EwCEMTgPDS9gf5j83isDTm?usp=sharing)
+
+> Sesión 05.3
+
+[https://colab.research.google.com/drive/1olUDvSgHgkJlby6X-k-SEWvIrFTTjeJT?usp=sharing](https://colab.research.google.com/drive/1olUDvSgHgkJlby6X-k-SEWvIrFTTjeJT?usp=sharing)
+
+> Sesión 05.4
+
+[https://colab.research.google.com/drive/1nL_JLKYFuEPz7nGg8yK4D_y7A2Y49Z_i?usp=sharing](https://colab.research.google.com/drive/1nL_JLKYFuEPz7nGg8yK4D_y7A2Y49Z_i?usp=sharing)
